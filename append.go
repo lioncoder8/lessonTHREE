@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main_append() {
 	var s []int
 	printSlicea(s)
 
